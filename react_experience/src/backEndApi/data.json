@@ -1,0 +1,37 @@
+[ 
+    {
+        "id": 1,
+        "product": "Screen",
+        "discription": "This is very good screen",
+        "price": "$89",
+        "date": "07-13-2018"
+    },
+    {
+        "id": 2,
+        "product": "Battery",
+        "discription": "This very awesome battery",
+        "price": "$30",
+        "date": "07-13-2018"
+    },
+    {
+        "id": 3,
+        "product": "Camera",
+        "discription": "Camera replacement are being repaired here",
+        "price": "$70",
+        "date": "07-13-2018"
+    },
+    {
+        "id": 4,
+        "product": "Speaker",
+        "discription": "This is brilliant speaker, works good",
+        "price": "$35",
+        "date": "07-13-2018"
+    },
+    {
+        "id": 5,
+        "product": "Button",
+        "discription": "Get some buttons repaired, today",
+        "price": "$30",
+        "date": "07-13-2018"
+    }
+]
